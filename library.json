@@ -1,0 +1,16 @@
+{
+  "name": "BounceI2C",
+  "keywords": "bounce, signal, input, ouput, I2C",
+  "description": "Debouncing library for Arduino over I2C with PCF8574P",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteveQuinn1/BounceI2C"
+  },
+  "version": "1.0",
+  "exclude": [
+    "*.png",
+    "*.zip"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}

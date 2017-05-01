@@ -1,0 +1,1 @@
+Put the "BounceI2C" folder in your Arduino "libraries" folder. 

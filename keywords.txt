@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For BounceI2C
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BounceI2C	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update	 KEYWORD2
+interval	 KEYWORD2
+read	 KEYWORD2
+attach	 KEYWORD2
+rose	KEYWORD2
+fell	KEYWORD2
+digitalWrite	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
