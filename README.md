@@ -4,6 +4,8 @@ Debouncing library for Arduino over I2C using the PCF8574P
 
 By Steve Quinn
 
+Uses Bounce2 by Thomas Ouellet Fredericks as foundation.
+
 
 BOUNCE 2
 =====================
